@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dimal\\OneDrive\\Рабочий стол\\дз\\Новая папка (2)\\инфа\\Курсачччч\\Курсачччч\\Курсачччч.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dimal\\OneDrive\\Рабочий стол\\дз\\Новая папка (2)\\инфа\\Курсачччч\\Курсачччч\\Курсачччч.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dimal\\OneDrive\\Рабочий стол\\дз\\Новая папка (2)\\инфа\\Курсачччч\\Курсачччч\\Курсачччч.csproj",
+        "projectName": "Курсачччч",
+        "projectPath": "C:\\Users\\dimal\\OneDrive\\Рабочий стол\\дз\\Новая папка (2)\\инфа\\Курсачччч\\Курсачччч\\Курсачччч.csproj",
+        "packagesPath": "C:\\Users\\dimal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dimal\\OneDrive\\Рабочий стол\\дз\\Новая папка (2)\\инфа\\Курсачччч\\Курсачччч\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dimal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Google.Apis.YouTube.v3": {
+              "target": "Package",
+              "version": "[1.60.0.3043, )"
+            },
+            "YouTubeExplode": {
+              "target": "Package",
+              "version": "[6.2.15, )"
+            },
+            "YouTubeExplode.Converter": {
+              "target": "Package",
+              "version": "[6.2.14, )"
+            },
+            "YoutubeExtractor": {
+              "target": "Package",
+              "version": "[0.10.11, )"
+            },
+            "telegram.bot": {
+              "target": "Package",
+              "version": "[19.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
